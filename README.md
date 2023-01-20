@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Dhrupad Thorat. A third-year ICT Undergraduate student with interests in software development, Data Science and Cyber Security. 
+- 👋 Hi, I’m Dhrupad Thorat. A Software Developer and a fourth-year ICT Undergraduate student with interests in full-stack development, Cloud Computing and AI. 
 I love building new things - starting from a blank whiteboard or early-stage prototype and transforming it into something people truly value. 
-I have experience working with Ruby on Rails, C#, C++ and R language framework.
 
 - 📫 How to reach me ...
 Linkedin:
