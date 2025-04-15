@@ -1,7 +1,7 @@
 👋 Hey there! I’m Dhrupad Thorat — a Full-Stack Software Developer with a passion for building scalable, responsive, and high-performance web applications. 🚀
 
 👨‍💻 Tech Stack & Skills:
-- Backend: ASP.NET, .NET Core, .NET 6/8  
+- Backend: ASP.NET, .NET Core, .NET 6/8, Python
 - Frontend: React, Vue.js, Angular, JAVA
 - Database: SQL Server (performance tuning, indexing, query optimization)  
 - DevOps & Cloud: Azure, AWS, Azure DevOps, GitHub Actions  
